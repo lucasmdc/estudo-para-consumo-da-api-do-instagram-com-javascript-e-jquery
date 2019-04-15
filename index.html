@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Teste</title>
+        <meta charset="utf-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="js/instagram-app.js"></script>
+        <script>
+            if(urlValue){
+                getAuthUser()
+            }
+        </script>
+    </head>
+    <body>
+        <!-- Login do instagram -->
+        <a href="javascript:void(0)" onclick="directUserForAuthUrl();">Login with Instagram</a>
+
+        <!-- Mostra os dados do usuário -->
+        <div id="userData"></div>
+    </body>
+</html>

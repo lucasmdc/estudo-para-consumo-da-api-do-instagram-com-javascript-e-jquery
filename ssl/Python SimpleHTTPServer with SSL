@@ -1,0 +1,4 @@
+# useful for running ssl server on localhost
+# which in turn is useful for working with WebSocket Secure (wss)
+
+# copied from http://www.piware.de/2011/01/creating-an-https-server-in-python/
