@@ -2,9 +2,9 @@
 
 //Variavéis
 /*
-    clientId => Usar a MESMO 'clientID' definido nas configurações 
+    clientId => Usar o MESMO 'clientID' definido nas configurações 
                 do seu cleinte na API do Instagram. 
-    clientSecret => Usar a MESMO 'clientSecret' definido nas configurações 
+    clientSecret => Usar o MESMO 'clientSecret' definido nas configurações 
                 do seu cleinte na API do Instagram. 
     redirectUri => Usar a MESMA uri de redirecionamento definida nas configurações 
                 do seu cleinte na API do Instagram. 
